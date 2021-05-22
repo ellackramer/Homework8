@@ -7,6 +7,11 @@ In this project, I updated my existing portfolio webpage from homework 2 to refl
   2. CSS3
   3. Git Branching workflow
 
+#Major Changes:
+  1. updated linkedin and resume
+  2. improved color palette
+  3. 
+
 #Links to Application:
   Deployed app:
-  Github Repository: 
+  Github Repository: https://github.com/ellackramer/Homework8
